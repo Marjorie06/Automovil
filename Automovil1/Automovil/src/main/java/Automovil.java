@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Frank
+ * @author Marjorie Chimbo
  */
 public class Automovil {
     public String marca;
@@ -118,7 +118,5 @@ public class Automovil {
 
     public void setVelocidadActual(double VelocidadActual) {
         this.VelocidadActual = VelocidadActual;
-    }
-  }
-    
-
+    } 
+}
